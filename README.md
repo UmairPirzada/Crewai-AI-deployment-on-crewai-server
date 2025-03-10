@@ -119,11 +119,3 @@ src/hello_flow/
 │       └── poem_crew.py
 └── main.py
 ```
-
-## Author
-
-Umair Ahmed
-
-## License
-
-This project is licensed under the MIT License.
